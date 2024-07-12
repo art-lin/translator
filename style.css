@@ -77,11 +77,6 @@ body {
     justify-content: center;
 }
 
-.controls .row.from .icons {
-    padding-right: 15px;
-    border-right: 1px solid #ccc
-}
-
 .controls .row.to .icons {
     padding-left: 15px;
     border-left: 1px solid #ccc;
